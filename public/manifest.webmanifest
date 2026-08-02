@@ -1,0 +1,10 @@
+{
+  "name": "職業分類引き",
+  "short_name": "職業分類引き",
+  "description": "仕事内容・分類名・コードから日本標準職業分類を探して比較する",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2eee3",
+  "theme_color": "#24362f",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

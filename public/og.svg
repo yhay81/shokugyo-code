@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f2eee3"/><rect x="38" y="38" width="1124" height="554" fill="none" stroke="#c9c0ae" stroke-width="2"/>
+  <g transform="translate(72 85)" font-family="sans-serif"><text fill="#af5238" font-size="18" font-weight="800" letter-spacing="3">JAPAN STANDARD OCCUPATIONAL CLASSIFICATION</text><text y="72" fill="#24362f" font-family="serif" font-size="48" font-weight="700">することを探す。</text><text y="134" fill="#24362f" font-family="serif" font-size="48" font-weight="700">3桁へたどる。</text><text y="187" fill="#5b6862" font-size="21">仕事内容から415コードを検索。迷う候補は並べて比較。</text></g>
+  <g transform="translate(720 78)">
+    <rect width="410" height="235" fill="#e4e7dc" stroke="#bdc6b9" stroke-width="2"/>
+    <g transform="translate(42 54)" fill="#fffdf7" stroke="#24362f" stroke-width="3">
+      <g><circle cx="30" cy="12" r="13"/><path d="M9 76V42Q9 29 22 29H38Q51 29 51 42V76Z"/><rect x="44" y="43" width="27" height="15" fill="#af5238"/></g>
+      <g transform="translate(86)"><circle cx="30" cy="12" r="13"/><path d="M9 76V42Q9 29 22 29H38Q51 29 51 42V76Z"/><rect x="44" y="43" width="30" height="21" fill="#d6af4c"/></g>
+      <g transform="translate(172)"><circle cx="30" cy="12" r="13"/><path d="M9 76V42Q9 29 22 29H38Q51 29 51 42V76Z"/><rect x="44" y="43" width="27" height="15" fill="#356553" transform="rotate(-12 44 43)"/></g>
+      <g transform="translate(258)"><circle cx="30" cy="12" r="13"/><path d="M9 76V42Q9 29 22 29H38Q51 29 51 42V76Z"/><circle cx="60" cy="51" r="13" fill="none"/></g>
+    </g>
+    <g transform="translate(26 165)"><rect width="358" height="54" fill="#24362f"/><rect x="7" y="7" width="82" height="40" fill="#fffdf7"/><rect x="96" y="7" width="104" height="40" fill="#fffdf7"/><rect x="207" y="7" width="144" height="40" fill="#af5238"/><g font-family="monospace" font-size="19" font-weight="800" text-anchor="middle"><text x="48" y="33" fill="#24362f">B</text><text x="148" y="33" fill="#24362f">05</text><text x="279" y="33" fill="#fffdf7">051</text></g></g>
+  </g>
+  <g transform="translate(72 365)"><rect width="548" height="140" fill="#24362f"/><rect x="12" y="12" width="160" height="116" fill="#fffdf7"/><rect x="178" y="12" width="358" height="116" fill="#fffdf7"/><text x="29" y="41" fill="#af5238" font-family="sans-serif" font-size="14" font-weight="800">小分類</text><text x="29" y="96" fill="#24362f" font-family="monospace" font-size="48" font-weight="800">051</text><text x="198" y="47" fill="#24362f" font-family="serif" font-size="25" font-weight="700">自然科学系研究者</text><text x="198" y="79" fill="#5b6862" font-family="sans-serif" font-size="15">試験・研究施設 / 自然科学の知識</text><text x="198" y="104" fill="#5b6862" font-family="sans-serif" font-size="15">固有の研究テーマ</text></g>
+  <g transform="translate(720 365)" font-family="sans-serif"><rect width="410" height="140" fill="#dce7df" stroke="#9eb5a7" stroke-width="2"/><text x="24" y="40" fill="#356553" font-size="16" font-weight="800">候補の作業台</text><line x1="24" y1="57" x2="386" y2="57" stroke="#9eb5a7"/><text x="24" y="84" fill="#24362f" font-size="15">説明と三段階の道筋を最大4件比較</text><text x="24" y="110" fill="#5b6862" font-size="14">検索語は送信しない</text></g>
+  <text x="1120" y="558" fill="#24362f" font-family="sans-serif" font-size="17" font-weight="800" text-anchor="end">職業分類引き</text>
+</svg>
